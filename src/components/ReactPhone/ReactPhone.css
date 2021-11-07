@@ -1,0 +1,33 @@
+.ReactPhone{
+    color: #484c57;
+    width: 90%;
+    height: 45px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 25px;
+    outline: none;
+    background: #fff;
+    border: none;
+    font-weight: 600;
+    border-radius: 10px;
+    border-top: 1px solid rgba(225, 225, 225, 0.3);
+    box-shadow: 0px 10px 21px rgba(0, 0, 0, 0.1);
+}
+
+.ReactPhone input {
+    text-align: center;
+    color: #484c57;
+    width: 100%;
+    height: 45px;
+    margin: 0 auto;
+    padding: 20px;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+
+
+
+
